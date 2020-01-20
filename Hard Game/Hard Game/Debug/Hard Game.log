@@ -1,0 +1,134 @@
+﻿  classes.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(137,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(137,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(152,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(152,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(158,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(158,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(162,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(244,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(244,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(259,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(259,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(265,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(265,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.cpp(269,21): warning C4305: '-=': truncation from 'double' to 'float'
+  functions.cpp
+  Leaderboard.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Leaderboard.cpp(14,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Level.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Level.cpp(15,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Level.cpp(20,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Level.cpp(109,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Level.cpp(117,23): warning C4305: '=': truncation from 'double' to 'float'
+  Menu.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Menu.cpp(19,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  NPC.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(96,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(96,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(111,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(111,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(117,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(117,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(121,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(203,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(203,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(218,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(218,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(224,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(224,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\NPC.cpp(228,21): warning C4305: '-=': truncation from 'double' to 'float'
+  OptionBase.cpp
+  Options.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Options.cpp(20,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Options.cpp(32,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Player.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(24,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(27,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(30,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(33,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(36,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(36,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(39,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(39,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(42,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(42,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(45,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(45,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\Player.cpp(138,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  source.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\source.cpp(45,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Hard Game.vcxproj -> C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Debug\Hard Game.exe

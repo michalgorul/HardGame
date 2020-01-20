@@ -1,0 +1,21 @@
+﻿  classes.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  functions.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Leaderboard.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Level.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Menu.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  NPC.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  OptionBase.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Options.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  source.cpp
+C:\Users\micha\Documents\STUDIA\PK3\Projekt\HardGame\Hard Game\Hard Game\classes.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Generowanie kodu...
